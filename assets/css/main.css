@@ -1,0 +1,104 @@
+
+body{
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 28px;
+	text-align: right;
+	display: inline-block;
+	
+}
+
+h3{
+	font-weight: 400;
+	font-size: 11px;
+	text-align: right;
+}
+
+h2{
+	background: #F9805E;
+	font-weight: 500;
+	font-size: 16px;
+	text-align: center;
+	padding: 20px;
+}
+
+p{
+	background: #F9805E;
+    font-weight: 300;
+	font-size: 12px;
+	text-align: center;
+	padding: 15px;
+}
+
+.title{
+	background: #F9805E;
+	padding: 5px;
+	width: 100%;
+	display: inline-block;
+}
+
+.onePanda{
+	background-image: url(../img/uno.jpg);
+	background-size: cover;
+	height: 25em;
+	width: 100%
+	padding: 0;
+}
+
+.history, .photos{
+	background: #ABE188;
+	border-top: 14px solid #F9805E;
+	border-bottom: 14px solid #F9805E;
+	height: 315px;
+	width: 100%
+}
+
+.col-4{
+	margin-left: 350px;
+	margin-top: 50px;
+
+}
+
+.twoPandas{
+	background-image: url(../img/dos.jpg);
+	background-size: cover;
+	height: 300px;
+	width: 100%;
+	padding: 0;
+}
+
+.pictures{
+	font-weight: 700;
+	margin-left: 430px;
+}
+
+.panda{
+	border: 5px solid white;
+	height: 90px;
+	width: 90px;
+	margin-left: 15px;
+	margin-top: 30px;
+	display: inline-block;
+}
+
+.sleepPanda{
+	background-image: url(../img/tres.jpg);
+	background-size: cover;
+	height: 300px;
+	width: 100%;
+	padding: 0;
+}
+
+.col-12{
+	margin: 0;
+	padding: 0;
+}
+.credit{
+	background: #F9805E;
+	padding: 30px;
+	margin: 0;
+}
